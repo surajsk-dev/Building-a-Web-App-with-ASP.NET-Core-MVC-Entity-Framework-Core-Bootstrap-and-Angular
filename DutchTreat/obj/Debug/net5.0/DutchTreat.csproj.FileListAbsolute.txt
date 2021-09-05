@@ -7,6 +7,7 @@ F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framew
 F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framework-Core-Bootstrap-and-Angular\DutchTreat\bin\Debug\net5.0\DutchTreat.dll
 F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framework-Core-Bootstrap-and-Angular\DutchTreat\bin\Debug\net5.0\ref\DutchTreat.dll
 F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framework-Core-Bootstrap-and-Angular\DutchTreat\bin\Debug\net5.0\DutchTreat.pdb
+F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framework-Core-Bootstrap-and-Angular\DutchTreat\obj\Debug\net5.0\DutchTreat.csproj.AssemblyReference.cache
 F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framework-Core-Bootstrap-and-Angular\DutchTreat\obj\Debug\net5.0\DutchTreat.GeneratedMSBuildEditorConfig.editorconfig
 F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framework-Core-Bootstrap-and-Angular\DutchTreat\obj\Debug\net5.0\DutchTreat.AssemblyInfoInputs.cache
 F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framework-Core-Bootstrap-and-Angular\DutchTreat\obj\Debug\net5.0\DutchTreat.AssemblyInfo.cs
@@ -20,3 +21,4 @@ F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framew
 F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framework-Core-Bootstrap-and-Angular\DutchTreat\obj\Debug\net5.0\ref\DutchTreat.dll
 F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framework-Core-Bootstrap-and-Angular\DutchTreat\obj\Debug\net5.0\DutchTreat.pdb
 F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framework-Core-Bootstrap-and-Angular\DutchTreat\obj\Debug\net5.0\DutchTreat.genruntimeconfig.cache
+F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framework-Core-Bootstrap-and-Angular\DutchTreat\bin\Debug\net5.0\libman.json

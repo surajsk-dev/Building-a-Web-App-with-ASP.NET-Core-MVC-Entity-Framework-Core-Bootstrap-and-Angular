@@ -43,8 +43,32 @@ ul.product-props li{
 
 .product-info img{
   float:left;
-  padding:5px;
   margin:5px;
   border: 1px solid black;
+  max-width: 250px;
 }
 
+
+#loginToggle{
+    cursor: pointer;
+    padding: 5px;
+}
+
+.popup-form{
+    display: inline-block;
+    padding: 5px;
+    border: 2px black inset;
+}
+
+.popup-form input{
+    width: 200px;
+}
+
+.popup-form label{
+    width: 150px;
+    display: inline-block;
+}
+
+.popup-form input[type=submit], .popup-form input[type=checkbox] {
+        width: auto;
+}
