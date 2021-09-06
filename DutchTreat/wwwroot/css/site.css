@@ -57,7 +57,7 @@ ul.product-props li{
 .popup-form{
     display: inline-block;
     padding: 5px;
-    border: 2px black inset;
+    border: 2px black outset;
 }
 
 .popup-form input{
@@ -71,4 +71,17 @@ ul.product-props li{
 
 .popup-form input[type=submit], .popup-form input[type=checkbox] {
         width: auto;
+}
+
+menu li{
+    display: inline;
+    text-decoration: none;
+}
+
+menu li::after{
+    content:" |"
+}
+
+menu li:last-of-type::after{
+    content:"";
 }
