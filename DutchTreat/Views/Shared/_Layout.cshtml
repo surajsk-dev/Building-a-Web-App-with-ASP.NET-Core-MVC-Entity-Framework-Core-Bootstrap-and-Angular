@@ -1,33 +1,50 @@
 ﻿
-
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
     <title>Dutch Treat : @ViewBag.Title</title>
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/lib/fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet" />
+
     <link rel="stylesheet" href="~/css/site.css" />
 
 </head>
 <body>
-    <header>
-        <h2>Welcome to Dutch Treat</h2>
-        <menu>
-            <ul>
-                <li><a asp-controller="App" asp-action="Index">Home</a></li>
-                <li><a asp-controller="App" asp-action="About">About</a></li>
-                <li><a asp-controller="App" asp-action="Contact">Contact</a></li>
-            </ul>
-        </menu>
+    <header class="container">
+        <nav class="navbar navbar-dark bg-dark navbar-expand-md">
+            <h1 class="navbar-brand"><i class="fas fa-paint-brush"></i> Welcome to Dutch Treat</h1>
+            <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#theMenu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div id="theMenu" class="navbar-collapse collapse">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="App" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="App" asp-action="About">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="App" asp-action="Contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
     </header>
-    <section>
-        <h2> @ViewBag.Title </h2>
+    <section class="container">
+        <h2 class="text-center"> @ViewBag.Title </h2>
         @RenderBody()
     </section>
-    <footer>copyright 2021 || Dutch Treat </footer>
+    <footer class="container">
+        <div class="text-center">copyright 2021 | Dutch Treat </div>
+    </footer>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="~/js/index.js"></script>
 
-    @RenderSection("Scripts",false)
+    @RenderSection("Scripts", false)
 </body>
 </html>
