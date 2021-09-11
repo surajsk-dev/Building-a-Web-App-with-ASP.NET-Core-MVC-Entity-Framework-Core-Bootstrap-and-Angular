@@ -387,3 +387,6 @@ F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framew
 F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framework-Core-Bootstrap-and-Angular\DutchTreat\bin\Debug\net5.0\config.json
 F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framework-Core-Bootstrap-and-Angular\DutchTreat\obj\Debug\net5.0\Razor\Views\App\Shop.cshtml.g.cs
 F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framework-Core-Bootstrap-and-Angular\DutchTreat\bin\Debug\net5.0\Data\art.json
+F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framework-Core-Bootstrap-and-Angular\DutchTreat\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framework-Core-Bootstrap-and-Angular\DutchTreat\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\suraj\learnings\dotnet\Building-a-Web-App-with-ASP.NET-Core-MVC-Entity-Framework-Core-Bootstrap-and-Angular\DutchTreat\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
