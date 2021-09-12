@@ -26,12 +26,12 @@ namespace DutchTreat.Controllers
         }
 
         [HttpGet]
-        public IActionResult Get()
+        public IActionResult Get(bool includeItems=true)
         {
             try
             {
-                var result = _repository.GetAllOrders();
-                return Ok(_mapper.Map<IEnumerable< OrderViewModel>>(result));
+                var result = _repository.GetAllOrders(includeItems);
+                return Ok(_mapper.Map<IEnumerable<Order>,IEnumerable< OrderViewModel>>(result));
 
             }
             catch(Exception ex)
